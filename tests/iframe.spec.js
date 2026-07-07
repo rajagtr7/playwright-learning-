@@ -6,7 +6,8 @@ test('frame', async ({page}) => {
     await frame.locator('//img[@data-attactment-id="1980"]').click();
     await page.waitForTimeout(2000);
     await page.goBack();
-   
+    
+   new file ==100 
      
     
 });
