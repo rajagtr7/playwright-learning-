@@ -7,7 +7,6 @@ test('frame', async ({page}) => {
     await page.waitForTimeout(2000);
     await page.goBack();
     
-   new file ==100 
      
     
 });
